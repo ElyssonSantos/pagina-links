@@ -41,7 +41,7 @@ export default function App() {
           </motion.div>
           
           <h1 className="text-[2rem] font-serif font-semibold text-center uppercase tracking-widest text-text-main mb-1">
-            Studio <span className="text-highlight">Bella</span>
+            Studio <span className="text-highlight">TESTE</span>
           </h1>
           <p className="text-highlight2 font-light text-[15px] text-center mb-5 opacity-90 tracking-wide">
             Nail Design & Alongamentos Premium
@@ -128,7 +128,7 @@ export default function App() {
           </div>
           
           <div className="text-center">
-             <p className="text-xs text-text-muted font-light tracking-widest uppercase">&copy; 2026 Studio Bella.</p>
+             <p className="text-xs text-text-muted font-light tracking-widest uppercase">&copy; 2026 Studio TESTE.</p>
           </div>
         </motion.div>
         
